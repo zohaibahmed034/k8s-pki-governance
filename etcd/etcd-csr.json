@@ -1,0 +1,21 @@
+{
+    "CN": "etcd",
+    "hosts": [
+        "127.0.0.1",
+        "localhost",
+        "etcd.kube-system.svc.cluster.local"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "San Francisco",
+            "O": "etcd",
+            "OU": "Kubernetes The Hard Way",
+            "ST": "California"
+        }
+    ]
+}

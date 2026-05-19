@@ -1,0 +1,8 @@
+2026-05-15 15:07:39 - Starting certificate monitoring check
+2026-05-15 15:07:39 - OK: Certificate Root CA is valid
+2026-05-15 15:07:39 - OK: Certificate API Server is valid
+2026-05-15 15:07:39 - OK: Certificate etcd is valid
+2026-05-15 15:07:39 - ERROR: Certificate file /home/ubuntu/k8s-pki/certs/admin.pem not found
+2026-05-15 15:07:39 - ALERT: Certificate Admin Client has expired or is invalid
+2026-05-15 15:07:39 - OK: Certificate Kubelet is valid
+2026-05-15 15:07:39 - Certificate monitoring check completed
